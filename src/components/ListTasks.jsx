@@ -25,9 +25,9 @@ function listTasks({ tasks, setTasks }) {
 
   return (
     <div className="flex gap-16">
-      {statuses.map((status, index) => (
+      {statuses.map((status) => (
         <Section
-          key={index}
+          key={todos.id}
           status={status}
           tasks={tasks}
           setTasks={setTasks}

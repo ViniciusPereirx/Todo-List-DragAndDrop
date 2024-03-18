@@ -45,6 +45,7 @@ function CreateTask({ tasks, setTasks }) {
         onChange={(e) =>
           setTask({ ...task, id: uuidv4(), name: e.target.value })
         }
+        required
       />
       <button className="bg-cyan-500 rounded-md px-4 h-10 text-white">
         Criar

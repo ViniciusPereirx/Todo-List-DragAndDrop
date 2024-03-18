@@ -1,8 +1,36 @@
-# React + Vite
+# <div align="center"> Todo-List DragAndDrop </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">Todo-List DragAndDrop utilizando HTML5, CSS3, TAILWINDCSS, JAVASCRIPT e REACT</p>
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML5</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a></li>
+  <li><a href="https://tailwindcss.com/">TAILWINDCSS</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT</a></li>
+  <li><a href="https://react.dev/">REACT</a></li>
+</ul>
+
+## ⚙️ Requisitos
+
+<ul>
+  <li><a href="https://git-scm.com/">Git</a></li>
+  <li><a href="https://github.com/">Github</a></li>
+</ul>
+
+## 🚀 Instalação
+
+```
+$ git clone https://github.com/ViniciusPereirx/Todo-List-DragAndDrop.git
+- npm install
+- executar o comando "npm run dev"
+- acessar no seu navegador http://localhost:3000/
+
+```
+
+##
+
+Deploy: Em Breve!
+
+##
